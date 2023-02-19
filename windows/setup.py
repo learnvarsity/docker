@@ -22,3 +22,8 @@
 # references
 
 # original link - https://computingforgeeks.com/how-to-run-docker-containers-on-windows-server-2019/
+
+
+# install docker compose
+# Start-BitsTransfer -Source "https://github.com/docker/compose/releases/download/v2.16.0/docker-compose-Windows-x86_64.exe" -Destination $Env:ProgramFiles\Docker\docker-compose.exe
+# docker-compose version
